@@ -1,7 +1,7 @@
 .{
     .name = .pipewire,
     .fingerprint = 0x1c93541a4325abb4,
-    .version = "1.5.81",
+    .version = "1.6.2",
     .api_version = "0.3",
 
     .minimum_zig_version = "0.15.1",
@@ -12,8 +12,8 @@
             .hash = "N-V-__8AAMV2BgB9aKHnchADe5onASuvEqAeRRO7Ai1oTuzW",
         },
         .upstream = .{
-            .url = "git+https://gitlab.freedesktop.org/pipewire/pipewire.git#1.5.81",
-            .hash = "N-V-__8AAKYw2AD301ZQsWszbYSWZQF5y-q4WXJif0UGRvFh",
+            .url = "git+https://gitlab.freedesktop.org/pipewire/pipewire.git#1.6.2",
+            .hash = "N-V-__8AAIAY3gB3ADKppwHNNJLs9sPzj0zQ3N1eV1wIb23m",
         },
         // Used by the examples
         .zin = .{
